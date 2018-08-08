@@ -20,6 +20,7 @@ var newsFeed = [
 
 		},
 		{
+			
 			username : "daddy",
 			news : "i love everything"
 		}
